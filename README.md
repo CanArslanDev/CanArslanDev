@@ -10,7 +10,7 @@
 <a href="https://fb.com/can arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="can arslan" height="30" width="40" /></a>
 <a href="https://instagram.com/niceinmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niceinmak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/canarslanisniceinmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="canarslanisniceinmak" height="30" width="40" /></a>
-<a href="https://discord.gg/Niceinmak#9634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Niceinmak#9634" height="30" width="40" /></a>
+<a href="https://discord.gg/FtcNdtkBsv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Niceinmak#9634" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
