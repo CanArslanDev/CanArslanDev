@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Can Arslan</h1>
 <h3 align="center">I am a Mobile Developer in Turkey</h3>
 
-- 🔭 I’m currently working on **Aethe App**
+- 🔭 I’m currently working on **Pirex Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
