@@ -3,6 +3,10 @@
 
 - 🔭 I’m currently working on **Pirex Development**
 
+![](https://github-readme-stats.vercel.app/api?username=canarslandev&show_icons=true&theme=gruvbox)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canarslandev&layout=compact&hide=html&theme=gruvbox" alt="misile00"/>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/niceinmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niceinmak" height="30" width="40" /></a>
