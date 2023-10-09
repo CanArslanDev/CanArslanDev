@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Can Arslan</h1>
 <h3 align="center">I am a Mobile Developer in Turkey</h3>
 
-- 🔭 I’m currently working on **Pirex Development**
+- 🔭 I’m currently working on **Flutter/Dart Developing**
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=canarslandev&theme=tokyonight" alt="mystreak"/>
 
