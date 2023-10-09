@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Pirex Development**
 
-![](https://github-readme-stats.vercel.app/api?username=canarslandev&show_icons=true&theme=gruvbox)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canarslandev&layout=compact&hide=html&theme=gruvbox" alt="misile00"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=canarslandev&theme=tokyonight" alt="mystreak"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
