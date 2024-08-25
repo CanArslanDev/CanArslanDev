@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Can Arslan</h1>
 <h3 align="center">I am a Mobile Developer in Turkey</h3>
 
@@ -20,6 +21,33 @@
 
 - This Flutter widget pack aims to show a reactive style animation progress bar. It also supports both vertical and horizontal bar.
 - [See on pub.dev](https://pub.dev/packages/simple_animation_progress_bar)
+
+<br>
+<h3 align="left">My Best Projects</h3>
+
+#### [flutter_transfer_app_core](https://github.com/CanArslanDev/flutter_transfer_app_core)
+ - This project allows two different devices to send files to each other
+   over any network with firebase.
+
+#### [flutter_chatgpt4_fullstack](https://github.com/CanArslanDev/flutter_chatgpt4_fullstack)
+ - Chatgpt 4 is a sample project where you can use features such as asking questions and creating images along with commands on the chat screen.
+
+
+#### [flutter_qr_code_send_json](https://github.com/CanArslanDev/flutter_qr_code_send_json)
+ - This project allows you to transmit json files to the other party with qr code on Flutter.
+   
+#### [flutter_notification_http_post](https://github.com/CanArslanDev/flutter_notification_http_post)
+ - A project that allows you to send notifications to different phones or devices as an http request via Flutter.
+
+#### [flutter_mentions_get_id](https://github.com/CanArslanDev/flutter_mentions_get_id)
+ - Project that allows you to use slash (/) commands in textfield widgets on Flutter. This project also allows you to get more information via slash commands.
+
+#### [flutter_auth_fullstack_getx](https://github.com/CanArslanDev/flutter_auth_fullstack_getx)
+ - Registration and login codes to quickly add to your applications with Getx status management
+
+#### [supabase_flutter_V2.2.0_ForDifferentVersionsSamePackage](https://github.com/CanArslanDev/supabase_flutter_V2.2.0_ForDifferentVersionsSamePackage)
+- It is a package developed specifically for Flutter applications that are stuck in old packages using Supabase. All the packages it contains have been changed to id and name, and it is a special package that does not depend on any external implemented package.
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
