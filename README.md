@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **Flutter/Dart Developing**
   
- :white_check_mark: **Education Share App** *50K Download on App Store & Play Store*  :small_blue_diamond: **Flutter/Dart** <br>
- :white_check_mark: **Education App** *20K Download on App Store & Play Store*  :small_blue_diamond: **Flutter & Dart** <br>
- :white_check_mark: **Nerd AI App** *10K Download on App Store & Play Store*  :small_blue_diamond: **Flutter & Dart** <br>
- :white_check_mark: **Messenger App** *1K Download on App Store & Play Store*  :small_blue_diamond: **Flutter & Dart** <br>
- :white_check_mark: **Aethe AI App** *1K Download on App Store & Play Store*  :small_blue_diamond: **Flutter & Dart** <br>
- :white_check_mark: **IOT Energy App** *1K Download on App Store & Play Store*  :small_blue_diamond: **Flutter & Dart** <br>
- :white_check_mark: **Notes+ App** *1K Download on App Store & Play Store*  :small_blue_diamond: **Flutter & Dart** <br>
- :white_check_mark: **FileEase File Share Web App** *10K Use On Web*  :small_blue_diamond: **Flutter & Dart** <br>
- :white_check_mark: **Anonymous Chat Web App** *5K Use On Web*  :small_blue_diamond: **JavaScript & NodeJS** <br>
+ :white_check_mark: **Education Share App** 🔻 **50K Download on App Store & Play Store**  :small_blue_diamond: **Flutter/Dart** <br>
+ :white_check_mark: **Education App** 🔻 **20K Download on App Store & Play Store**  :small_blue_diamond: **Flutter & Dart** <br>
+ :white_check_mark: **Nerd AI App** 🔻 **10K Download on App Store & Play Store**  :small_blue_diamond: **Flutter & Dart** <br>
+ :white_check_mark: **Messenger App** 🔻 **1K Download on App Store & Play Store**  :small_blue_diamond: **Flutter & Dart** <br>
+ :white_check_mark: **Aethe AI App** 🔻 **1K Download on App Store & Play Store**  :small_blue_diamond: **Flutter & Dart** <br>
+ :white_check_mark: **IOT Energy App** 🔻 **1K Download on App Store & Play Store**  :small_blue_diamond: **Flutter & Dart** <br>
+ :white_check_mark: **Notes+ App** 🔻 **1K Download on App Store & Play Store**  :small_blue_diamond: **Flutter & Dart** <br>
+ :white_check_mark: **FileEase File Share Web App** 🔻 **10K Use On Web**  :small_blue_diamond: **Flutter & Dart** <br>
+ :white_check_mark: **Anonymous Chat Web App** 🔻 **5K Use On Web**  :small_blue_diamond: **JavaScript & NodeJS** <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=canarslandev&theme=tokyonight" alt="mystreak"/>
 
