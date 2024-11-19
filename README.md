@@ -22,6 +22,13 @@
 - This Flutter widget pack aims to show a reactive style animation progress bar. It also supports both vertical and horizontal bar.
 - [See on pub.dev](https://pub.dev/packages/simple_animation_progress_bar)
 
+
+  
+<h4>Simple Painter (simple_painter)</h4>
+
+- **Flutter Painter** is a Flutter package that lets users create and manipulate a drawing canvas with layers. It supports adding and styling text, images, and shapes, along with freehand drawing tools, customizable brush sizes, and colors. The package also includes undo/redo functionality and custom background support.
+- [See on pub.dev](https://pub.dev/packages/simple_painter)
+
 <br>
 <h3 align="left">My Best Projects</h3>
 
