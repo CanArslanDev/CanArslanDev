@@ -2,19 +2,27 @@
 <h1 align="center">Hi 👋, I'm Can Arslan</h1>
 <h3 align="center">I am a Mobile Developer in Turkey</h3>
 
-- 🔭 I’m currently working on **Flutter/Dart Developing**
-  
- :white_check_mark: **Education Share App** 🔻 **50K Download on App Store & Play Store**  :small_blue_diamond: **Flutter/Dart** <br>
- :white_check_mark: **Education App** 🔻 **20K Download on App Store & Play Store**  :small_blue_diamond: **Flutter & Dart** <br>
- :white_check_mark: **Nerd AI App** 🔻 **10K Download on App Store & Play Store**  :small_blue_diamond: **Flutter & Dart** <br>
- :white_check_mark: **Messenger App** 🔻 **1K Download on App Store & Play Store**  :small_blue_diamond: **Flutter & Dart** <br>
- :white_check_mark: **Aethe AI App** 🔻 **1K Download on App Store & Play Store**  :small_blue_diamond: **Flutter & Dart** <br>
- :white_check_mark: **IOT Energy App** 🔻 **1K Download on App Store & Play Store**  :small_blue_diamond: **Flutter & Dart** <br>
- :white_check_mark: **Notes+ App** 🔻 **1K Download on App Store & Play Store**  :small_blue_diamond: **Flutter & Dart** <br>
- :white_check_mark: **FileEase File Share Web App** 🔻 **10K Use On Web**  :small_blue_diamond: **Flutter & Dart** <br>
- :white_check_mark: **Anonymous Chat Web App** 🔻 **5K Use On Web**  :small_blue_diamond: **JavaScript & NodeJS** <br>
+<img align='right' style="border-radius: 50" src="https://github.com/user-attachments/assets/a45a5598-3a2f-44c8-8e20-0294cb21897d" width="230">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=canarslandev&theme=tokyonight" alt="mystreak"/>
+<p>🔭 I'm currently working on <strong>Flutter/Dart Developing</strong></br>
+🌐 <a href="https://canarslan.me">Visit my website</a> for more information
+</p>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?color=%230E76A8)](https://www.linkedin.com/in/can-arslann/)
+[![X: ThaiiBraga](https://img.shields.io/twitter/follow/CanArslanDev?style=social)](https://x.com/CanArslanDev)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&logo=Google-Chrome&logoColor=white&link=https://canarslan.me)](https://canarslan.me)
+[![GitHub CanArslanDev](https://img.shields.io/github/followers/CanArslanDev?label=follow&style=social)](https://github.com/CanArslanDev)<br><br>
+```javascript
+const CanArslanDev = {
+  age: 18,
+  framework: "Flutter",
+  code: ["Dart", "Python", "C#", "Javascript", "HTML", "CSS"],
+  tools: ["Flutter","Riverpod", "Bloc", "GetX", "Firebase", "Supabase"],
+  architecture: ["MVVM", "MVC", "MVP", "Clean Architecture", "Reactive Programming"],
+  website: "https://canarslan.me"
+}
+```
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CanArslanDev&theme=tokyonight)](https://git.io/streak-stats)
 
 <h3 align="left">My Pub Dev Packages</h3>
 <h4>Flutter Simple Animation Progress Bar (simple_animation_progress_bar)</h4>
@@ -32,13 +40,15 @@
 <br>
 <h3 align="left">My Best Projects</h3>
 
-#### [flutter_transfer_app_core](https://github.com/CanArslanDev/flutter_transfer_app_core)
+#### [flutter_fileease](https://github.com/CanArslanDev/flutter_fileease)
+ - FileEase is a cutting-edge file transfer application developed with modern technologies, offering multi-platform support and prioritizing user experience. Built with the Flutter framework, FileEase aims to make file transfers secure, fast, and seamless.
+
+#### [flutter_iot_energy]()
  - This project allows two different devices to send files to each other
    over any network with firebase.
 
 #### [flutter_chatgpt4_fullstack](https://github.com/CanArslanDev/flutter_chatgpt4_fullstack)
  - Chatgpt 4 is a sample project where you can use features such as asking questions and creating images along with commands on the chat screen.
-
 
 #### [flutter_qr_code_send_json](https://github.com/CanArslanDev/flutter_qr_code_send_json)
  - This project allows you to transmit json files to the other party with qr code on Flutter.
@@ -46,25 +56,15 @@
 #### [flutter_notification_http_post](https://github.com/CanArslanDev/flutter_notification_http_post)
  - A project that allows you to send notifications to different phones or devices as an http request via Flutter.
 
-#### [flutter_mentions_get_id](https://github.com/CanArslanDev/flutter_mentions_get_id)
- - Project that allows you to use slash (/) commands in textfield widgets on Flutter. This project also allows you to get more information via slash commands.
-
-#### [flutter_auth_fullstack_getx](https://github.com/CanArslanDev/flutter_auth_fullstack_getx)
- - Registration and login codes to quickly add to your applications with Getx status management
-
-#### [supabase_flutter_V2.2.0_ForDifferentVersionsSamePackage](https://github.com/CanArslanDev/supabase_flutter_V2.2.0_ForDifferentVersionsSamePackage)
-- It is a package developed specifically for Flutter applications that are stuck in old packages using Supabase. All the packages it contains have been changed to id and name, and it is a special package that does not depend on any external implemented package.
  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/niceinmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niceinmak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/can arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="can arslan" height="30" width="40" /></a>
-<a href="https://fb.com/can arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="can arslan" height="30" width="40" /></a>
-<a href="https://instagram.com/niceinmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niceinmak" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/canarslanisniceinmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="canarslanisniceinmak" height="30" width="40" /></a>
-<a href="https://discord.gg/FtcNdtkBsv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Niceinmak#9634" height="30" width="40" /></a>
+</a>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="left">  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> </a> </p>
