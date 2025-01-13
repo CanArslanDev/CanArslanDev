@@ -17,7 +17,7 @@ const CanArslanDev = {
   age: 18,
   framework: "Flutter",
   code: ["Dart", "Python", "C#", "Javascript", "HTML", "CSS"],
-  tools: ["Flutter","Riverpod", "Bloc", "GetX", "Firebase", "Supabase"],
+  tools: ["GetX", "Bloc", "Riverpod", "Provider", "Firebase", "Supabase"],
   architecture: ["MVVM", "MVC", "MVP", "Clean Architecture"],
   website: "https://canarslan.me"
 }
