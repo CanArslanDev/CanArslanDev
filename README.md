@@ -18,7 +18,7 @@ const CanArslanDev = {
   framework: "Flutter",
   code: ["Dart", "Python", "C#", "Javascript", "HTML", "CSS"],
   tools: ["Flutter","Riverpod", "Bloc", "GetX", "Firebase", "Supabase"],
-  architecture: ["MVVM", "MVC", "MVP", "Clean Architecture", "Reactive Programming"],
+  architecture: ["MVVM", "MVC", "MVP", "Clean Architecture"],
   website: "https://canarslan.me"
 }
 ```
