@@ -22,7 +22,13 @@ const CanArslanDev = {
   website: "https://canarslan.me"
 }
 ```
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CanArslanDev&theme=tokyonight)](https://git.io/streak-stats)
+<!-- <div align="center"> --> 
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img width="500" src="https://github-readme-streak-stats-eight.vercel.app/?user=CanArslanDev&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+
+<!--  </div> --> 
+
 
 <h3 align="left">My Pub Dev Packages</h3>
 <h4>Flutter Simple Animation Progress Bar (simple_animation_progress_bar)</h4>
