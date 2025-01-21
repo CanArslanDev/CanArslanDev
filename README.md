@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Can Arslan</h1>
-<h3 align="center">I am a Mobile Developer in Turkey</h3>
+<h3 align="center">I am a Flutter & Mobile Developer in Turkey</h3>
 
 <img align='right' style="border-radius: 50" src="https://github.com/user-attachments/assets/a45a5598-3a2f-44c8-8e20-0294cb21897d" width="230">
 
