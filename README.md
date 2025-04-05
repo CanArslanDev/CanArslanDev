@@ -43,6 +43,11 @@ const CanArslanDev = {
 - **Flutter Painter** is a Flutter package that lets users create and manipulate a drawing canvas with layers. It supports adding and styling text, images, and shapes, along with freehand drawing tools, customizable brush sizes, and colors. The package also includes undo/redo functionality and custom background support.
 - [See on pub.dev](https://pub.dev/packages/simple_painter)
 
+<h4>Contributions Chart (contributions_chart)</h4>
+
+- **Contributions Chart** is a Flutter widget that displays a GitHub-style contributions graph in your Flutter application.  
+- It offers visual representation similar to GitHub profile contribution graphs, supports tap/click interactions, calendar labels, light/dark themes, and is fully responsive.  
+- [See on pub.dev](https://pub.dev/packages/contributions_chart)
 <br>
 <h3 align="left">My Best Projects</h3>
 
