@@ -31,13 +31,16 @@ const CanArslanDev = {
 
 
 <h3 align="left">My Pub Dev Packages</h3>
+
+<h4>Offline Sync Kit (offline_sync_kit)</h4>
+
+- A Flutter package that handles reliable data synchronization between local storage and remote APIs, even with intermittent connectivity. Ideal for offline-first apps.  
+- [See on pub.dev](https://pub.dev/packages/offline_sync_kit)
 <h4>Flutter Simple Animation Progress Bar (simple_animation_progress_bar)</h4>
 
 - This Flutter widget pack aims to show a reactive style animation progress bar. It also supports both vertical and horizontal bar.
 - [See on pub.dev](https://pub.dev/packages/simple_animation_progress_bar)
 
-
-  
 <h4>Simple Painter (simple_painter)</h4>
 
 - **Flutter Painter** is a Flutter package that lets users create and manipulate a drawing canvas with layers. It supports adding and styling text, images, and shapes, along with freehand drawing tools, customizable brush sizes, and colors. The package also includes undo/redo functionality and custom background support.
