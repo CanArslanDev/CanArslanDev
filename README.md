@@ -23,7 +23,7 @@ const CanArslanDev = {
 }
 ```
 <!-- <div align="center"> --> 
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a>
     <img width="500" src="https://github-readme-streak-stats-eight.vercel.app/?user=CanArslanDev&theme=tokyonight" alt="GitHub Streak" />
   </a>
 
