@@ -24,7 +24,7 @@ const CanArslanDev = {
 ```
 <!-- <div align="center"> --> 
   <a>
-    <img width="500" src="https://github-readme-streak-stats-eight.vercel.app/?user=CanArslanDev&theme=tokyonight" alt="GitHub Streak" />
+    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=canarslandev&theme=tokyonight" alt="GitHub Streak" />
   </a>
 
 <!--  </div> --> 
