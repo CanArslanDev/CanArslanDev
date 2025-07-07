@@ -51,6 +51,11 @@ const CanArslanDev = {
 - **Contributions Chart** is a Flutter widget that displays a GitHub-style contributions graph in your Flutter application.  
 - It offers visual representation similar to GitHub profile contribution graphs, supports tap/click interactions, calendar labels, light/dark themes, and is fully responsive.  
 - [See on pub.dev](https://pub.dev/packages/contributions_chart)
+
+<h4>Flutter Liquid Glass (flutter_liquid_glass)</h4>
+
+- **Flutter Liquid Glass** is a Flutter package that brings Apple's Liquid Glass design language to Flutter applications with extensive customization options.
+- [See on pub.dev](https://pub.dev/packages/flutter_liquid_glass)
 <br>
 <h3 align="left">My Best Projects</h3>
 
