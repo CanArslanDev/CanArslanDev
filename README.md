@@ -52,12 +52,19 @@ const CanArslanDev = {
 - It offers visual representation similar to GitHub profile contribution graphs, supports tap/click interactions, calendar labels, light/dark themes, and is fully responsive.  
 - [See on pub.dev](https://pub.dev/packages/contributions_chart)
 
+<h4>Flutter Blend Mask (flutter_blend_mask)</h4>
+
+- **Flutter Blend Mask** is a Flutter widget that applies BlendMode effects to its child widgets with proper layer compositing.
+- [See on pub.dev](https://pub.dev/packages/flutter_liquid_glass)
+
+
 <h4>Flutter Liquid Glass (flutter_liquid_glass)</h4>
 
 - **Flutter Liquid Glass** is a Flutter package that brings Apple's Liquid Glass design language to Flutter applications with extensive customization options.
-- [See on pub.dev](https://pub.dev/packages/flutter_liquid_glass)
+- [See on pub.dev](https://pub.dev/packages/flutter_blend_mask)
 <br>
 <h3 align="left">My Best Projects</h3>
+
 
 #### [flutter_fileease](https://github.com/CanArslanDev/flutter_fileease)
  - FileEase is a cutting-edge file transfer application developed with modern technologies, offering multi-platform support and prioritizing user experience. Built with the Flutter framework, FileEase aims to make file transfers secure, fast, and seamless.
