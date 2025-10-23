@@ -14,7 +14,7 @@
 [![GitHub CanArslanDev](https://img.shields.io/github/followers/CanArslanDev?label=follow&style=social)](https://github.com/CanArslanDev)<br><br>
 ```javascript
 const CanArslanDev = {
-  age: 18,
+  age: 19,
   framework: "Flutter",
   code: ["Dart", "Python", "C#", "JavaScript", "HTML", "CSS"],
   tools: ["GetX", "Bloc", "Riverpod", "Provider", "Firebase", "Supabase"],
