@@ -1,5 +1,5 @@
 <h1 align="center">Can Arslan</h1>
-<h3 align="center">Mobile & AI Developer from Turkey</h3>
+<h3 align="center">Mobile Developer from Turkey</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/can-arslann/"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
