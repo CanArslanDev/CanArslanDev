@@ -2,17 +2,56 @@
 <h3 align="center">Mobile Developer from Turkey</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/can-arslann/"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/CanArslanDev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://canarslan.me"><img src="https://img.shields.io/badge/Website-46a2f1?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://github.com/CanArslanDev"><img src="https://img.shields.io/github/followers/CanArslanDev?label=Follow&style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/can-arslann/"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/CanArslanDev"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="https://canarslan.me"><img src="https://img.shields.io/badge/Website-46a2f1?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  Building cross-platform apps with Flutter and exploring AI systems with Go & Python.
+  Building cross-platform apps with Flutter, and tools around Go, LLMs and music production.
   <br/>
   Founder of <a href="https://greenboxapp.net">greenbox AI</a> · <a href="https://canarslan.me">canarslan.me</a>
 </p>
+
+---
+
+## Featured Projects
+
+**Apps**
+- [**greenbox AI**](https://greenboxapp.net): AI chat app with 100+ language models, on the App Store and Play Store
+- [**Linguwa**](https://linguwa.com): Language-learning app, Best Language Application at ITU Cekirdek Big Bang
+- [**flutter_fileease**](https://github.com/CanArslanDev/flutter_fileease): Peer-to-peer file transfer between devices with QR pairing
+- [**flutter_iot_energy**](https://github.com/CanArslanDev/flutter_iot_energy): Energy monitoring app with its own [ESP8266 hardware](https://github.com/CanArslanDev/arduino_iot_energy_esp8266)
+
+**AI & Music**
+- [**ableton-live-mcp**](https://github.com/CanArslanDev/ableton-live-mcp): Lets an AI assistant control Ableton Live over MCP
+- [**reference-dissector**](https://github.com/CanArslanDev/reference-dissector): Takes a reference track apart and rebuilds it in Ableton Live
+**Go**
+- [**agentflow**](https://github.com/CanArslanDev/agentflow): Framework for tool-calling AI agents
+- [**go-ai-guardrails**](https://github.com/CanArslanDev/go-ai-guardrails): Validation for LLM inputs and outputs
+
+**Tools & Fun**
+- [**android_emulator_cleaner**](https://github.com/CanArslanDev/android_emulator_cleaner): Frees disk space used by Android emulators
+- [**image_to_ascii_art**](https://github.com/CanArslanDev/image_to_ascii_art): Colored ASCII art from images, with GIF export
+- [**ascii_animations**](https://github.com/CanArslanDev/ascii_animations): Text animations drawn with Unicode Braille characters
+- [**x_content**](https://github.com/CanArslanDev/x_content): Rewrites tweets using X's open-source ranking signals
+- [**SkyFront**](https://github.com/CanArslanDev/SkyFront): Browser RTS game with land, sea and air units
+
+## Published Packages · [pub.dev](https://pub.dev/publishers/canarslan.me/packages)
+
+- [**simple_painter**](https://pub.dev/packages/simple_painter): Drawing canvas with layers, shapes and undo/redo
+- [**offline_sync_kit**](https://pub.dev/packages/offline_sync_kit): Offline-first data sync with conflict resolution
+- [**simple_animation_progress_bar**](https://pub.dev/packages/simple_animation_progress_bar): Animated progress bars, horizontal and vertical
+- [**rune**](https://pub.dev/packages/rune): Builds Flutter widgets from Dart code strings at runtime
+- [**contributions_chart**](https://pub.dev/packages/contributions_chart): GitHub-style contribution graph widget
+- [**flutter_liquid_glass**](https://pub.dev/packages/flutter_liquid_glass): Apple's Liquid Glass look for Flutter
+- [**flutter_blend_mask**](https://pub.dev/packages/flutter_blend_mask): BlendMode effects with proper layer compositing
+
+## Open Source Contributions
+
+- [**flutter/flutter #190431**](https://github.com/flutter/flutter/pull/190431): Rebuild a semantics fragment when its sibling conflict changes
+- [**tonl-dev/tonl #11**](https://github.com/tonl-dev/tonl/pull/11): Optimization API with 11 compression strategies
+- [**pods-head-tracker #1**](https://github.com/batubozkan/pods-head-tracker/pull/1): Calibration, wrap-safe math, installer, tests and CI
 
 ---
 
@@ -29,60 +68,39 @@
 - **Game Development Competition**: 7th in Turkey, Aselsan
 - **Teknofest Efficiency Challenge**: Project Manager, Alaz Team
 
----
+## Other / Old Projects
 
-## Published Packages · 50K+ Downloads
-
-- [**simple_painter**](https://pub.dev/packages/simple_painter): Full-featured drawing canvas with layers, shapes, undo/redo `⭐ 23`
-- [**offline_sync_kit**](https://pub.dev/packages/offline_sync_kit): Offline-first sync with WebSocket, delta sync, conflict resolution `⭐ 13`
-- [**simple_animation_progress_bar**](https://pub.dev/packages/simple_animation_progress_bar): Reactive animated progress bars, vertical & horizontal `⭐ 11`
-- [**contributions_chart**](https://pub.dev/packages/contributions_chart): GitHub-style contribution graphs with tap interactions `⭐ 6`
-- [**flutter_liquid_glass**](https://pub.dev/packages/flutter_liquid_glass): Apple's Liquid Glass design language for Flutter `⭐ 3`
-- [**flutter_blend_mask**](https://pub.dev/packages/flutter_blend_mask): BlendMode effects with proper layer compositing `⭐ 2`
-
-## Featured Projects · 190+ Stars across 58 repos
-
-- [**greenbox AI**](https://greenboxapp.net): Unified AI platform with 100+ LLMs, custom memory system, and intelligent model selection. Live on App Store & Play Store
-- [**agentflow**](https://github.com/CanArslanDev/agentflow): Production-grade Go framework for agentic AI systems with multi-provider failover, streaming, and sub-agent orchestration
-- [**flutter_fileease**](https://github.com/CanArslanDev/flutter_fileease): Cross-platform P2P file transfer app with QR pairing and real-time sync (Flutter, Firebase)
-- [**android_emulator_cleaner**](https://github.com/CanArslanDev/android_emulator_cleaner): Published PyPI tool for Android emulator cleanup with rich TUI and CI/CD pipeline (Python)
-- [**image_to_ascii_art**](https://github.com/CanArslanDev/image_to_ascii_art): Image to ASCII art with edge-detected glow, 9 animation effects, and GIF export (Vanilla JS)
-- [**flutter_iot_energy**](https://github.com/CanArslanDev/flutter_iot_energy): IoT energy monitoring with ESP8266 hardware, scene automation, and multi-user sharing (Flutter, C++)
-- [**flutter_chatgpt4_fullstack**](https://github.com/CanArslanDev/flutter_chatgpt4_fullstack): Full-stack ChatGPT 4 integration with Q&A and image generation (Flutter)
-- [**x_content**](https://github.com/CanArslanDev/x_content): CLI tool that optimizes tweets using X's open-source Phoenix ranking algorithm with 19 signals (Python)
-- [**claude-code-setup**](https://github.com/CanArslanDev/claude-code-setup): Complete Claude Code guide covering setup, memory, hooks, and MCP
-- [**canarslan_website**](https://github.com/CanArslanDev/canarslan_website): Personal portfolio website built with Flutter Web (Dart)
-- [**arduino_iot_energy_esp8266**](https://github.com/CanArslanDev/arduino_iot_energy_esp8266): ESP8266 firmware for IoT energy monitoring hardware (C++)
-- [**flutter_transfer_app_core**](https://github.com/CanArslanDev/flutter_transfer_app_core): Backend infrastructure for Flutter file transfer application (Dart)
-- [**ascii_animations**](https://github.com/CanArslanDev/ascii_animations): Text-based animations using Unicode Braille characters (JavaScript)
-- [**flutter_auth_fullstack_getx**](https://github.com/CanArslanDev/flutter_auth_fullstack_getx): Full authentication flow with GetX state management (Flutter)
-- [**aso-pilot**](https://github.com/CanArslanDev/aso-pilot): App Store Optimization tool (Shell)
-- [**flutter_notification_http_post**](https://github.com/CanArslanDev/flutter_notification_http_post): Push notifications to multiple devices via HTTP requests (Flutter, Firebase)
-- [**flutter_scrollable_html**](https://github.com/CanArslanDev/flutter_scrollable_html): Scrollable HTML rendering widget for Flutter (Dart)
-- [**flutter_gitignore**](https://github.com/CanArslanDev/flutter_gitignore): Pre-configured .gitignore templates for Flutter projects
-- [**flutter_qr_code_send_json**](https://github.com/CanArslanDev/flutter_qr_code_send_json): Transmit JSON data between devices using QR codes (Flutter)
-- [**flutter_native_waveform**](https://github.com/CanArslanDev/flutter_native_waveform): Native audio waveform visualization widget (Dart)
-
----
+- [**aso-pilot**](https://github.com/CanArslanDev/aso-pilot): Turns Claude Code into an App Store Optimization assistant
+- [**flutter_native_waveform**](https://github.com/CanArslanDev/flutter_native_waveform): Audio waveform drawn from native PCM data
+- [**flutter_gitignore**](https://github.com/CanArslanDev/flutter_gitignore): .gitignore templates for Flutter projects
+- [**flutter_scrollable_html**](https://github.com/CanArslanDev/flutter_scrollable_html): Interactive HTML content inside Flutter Web
+- [**canarslan_website**](https://github.com/CanArslanDev/canarslan_website): Personal website built with Flutter Web
+- [**flutter_auth_fullstack_getx**](https://github.com/CanArslanDev/flutter_auth_fullstack_getx): Full sign-up and login flow with GetX
+- [**flutter_qr_code_send_json**](https://github.com/CanArslanDev/flutter_qr_code_send_json): Send JSON between devices with a QR code
+- [**flutter_transfer_app_core**](https://github.com/CanArslanDev/flutter_transfer_app_core): Backend of a phone-to-phone file transfer app
+- [**flutter_crop_camera_while_previewing**](https://github.com/CanArslanDev/flutter_crop_camera_while_previewing): Cropping the camera image during preview
+- [**flutter_mathpix_api_ocr**](https://github.com/CanArslanDev/flutter_mathpix_api_ocr): Reading math from photos with the Mathpix OCR API
+- [**flutter_firebase_ml_kit_vision_api**](https://github.com/CanArslanDev/flutter_firebase_ml_kit_vision_api): Face and text detection with Firebase ML Kit
+- [**flutter_in_app_purchase_demo**](https://github.com/CanArslanDev/flutter_in_app_purchase_demo): In-app purchases with the official package
+- [**flutter_notification_http_post**](https://github.com/CanArslanDev/flutter_notification_http_post): Push notifications to many devices over HTTP
+- [**flutter_chatgpt4_fullstack**](https://github.com/CanArslanDev/flutter_chatgpt4_fullstack): Mobile app built on the ChatGPT-4 API
+- [**vscode-easytags-extension**](https://github.com/CanArslanDev/vscode-easytags-extension): VS Code extension for quick Bootstrap tags
+- [**flutter_step_progress_without_package**](https://github.com/CanArslanDev/flutter_step_progress_without_package): Step progress bar without a package
+- [**flutter_mentions_get_id**](https://github.com/CanArslanDev/flutter_mentions_get_id): Getting user IDs from flutter_mentions
+- [**flutter-chatgpt-image-generator**](https://github.com/CanArslanDev/flutter-chatgpt-image-generator): Image generation with the OpenAI API
+- [**flutter_step_counter_ui**](https://github.com/CanArslanDev/flutter_step_counter_ui): Step counter UI
 
 ## Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=CanArslanDev&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D&t=1" alt="GitHub Streak" width="480"/>
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
