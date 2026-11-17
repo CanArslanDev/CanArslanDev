@@ -101,10 +101,9 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-[![CanArslanDev's GitHub stats](https://gitshine.com/card/CanArslanDev)](https://gitshine.com/stats/CanArslanDev)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
+[![CanArslanDev's GitHub stats](https://gitshine.com/card/CanArslanDev)](https://gitshine.com/stats/CanArslanDev)
 
 <p align="center">Open for collaborations and freelance opportunities · <a href="https://www.linkedin.com/in/can-arslann/">LinkedIn</a></p>
